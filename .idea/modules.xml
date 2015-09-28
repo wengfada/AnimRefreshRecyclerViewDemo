@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnimRefreshRecyclerView/AnimRefreshRecyclerView.iml" filepath="$PROJECT_DIR$/AnimRefreshRecyclerView/AnimRefreshRecyclerView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AnimRefreshRecyclerViewDemo/AnimRefreshRecyclerViewDemo.iml" filepath="$PROJECT_DIR$/AnimRefreshRecyclerViewDemo/AnimRefreshRecyclerViewDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyAnimRefreshRecyclerView.iml" filepath="$PROJECT_DIR$/MyAnimRefreshRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimRefreshRecyclerViewDemo.iml" filepath="$PROJECT_DIR$/AnimRefreshRecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimRefreshRecyclerViewDemo/AnimRefreshRecyclerViewDemo-AnimRefreshRecyclerViewDemo.iml" filepath="$PROJECT_DIR$/AnimRefreshRecyclerViewDemo/AnimRefreshRecyclerViewDemo-AnimRefreshRecyclerViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
